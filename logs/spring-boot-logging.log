@@ -1,0 +1,4 @@
+2018-01-11 23:03:57.635  INFO 6076 --- [main] o.s.s.d.mybatis.PhoneNbrLevelMapperTest  : Starting PhoneNbrLevelMapperTest on wuxw with PID 6076 (started by wxwall in F:\hlog\springboot-learning-example\springboot-elasticsearch)
+2018-01-11 23:03:57.637  INFO 6076 --- [main] o.s.s.d.mybatis.PhoneNbrLevelMapperTest  : No active profile set, falling back to default profiles: default
+2018-01-11 23:04:02.302  INFO 6076 --- [main] org.elasticsearch.plugins                : [Mist Mistress] modules [], plugins [], sites []
+2018-01-11 23:04:06.580  INFO 6076 --- [main] o.s.s.d.mybatis.PhoneNbrLevelMapperTest  : Started PhoneNbrLevelMapperTest in 9.926 seconds (JVM running for 11.58)
